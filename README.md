@@ -1,7 +1,10 @@
 # Olympic-SQL
 
 <h1>Introduction </h1>
-<p> Hello everyone, this is a practice for me to test my application of SQL concept. I found this practice from an online blog with the link shown below. The datasets are from Kaggle, containing 120 years of Olympic History dataset from the user rgriffin.
+<p> 
+Hello everyone, this is a practice for me to test my application of SQL concept. I found this practice from an online blog with the link shown below. The datasets are from Kaggle, containing 120 years of Olympic History dataset from the user rgriffin. For convenience, I have also uploaded the datasets in the respository under the <b>Olympic_data folder</b>.
+</p>
+
 <p>  Exercise Source:
   <a href="https://techtfq.com/blog/practice-writing-sql-queries-using-real-dataset#google_vignette=">Techtfq.com</a>
 </p>
@@ -10,12 +13,15 @@
     <a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results">Kaggle_rgriffin</a> 
 </p>        
 
-For convenience, I have also uploaded the datasets in the respository under 
+<p>
+SQL script can be found in the repository labelled: <b>SQL_Olympic.sql</b>
+</p> 
 
-##############################
+
 
 <h1>Questions</h1>
 <p> Below are the questions that I will be answering using SQL. These questions can be found from the mentioned blog above, with some slight modifications to a few of the questions. </p>
+  
 
 <ol type="1">
    <li>How many olympics games have been held?</li>
@@ -34,7 +40,7 @@ For convenience, I have also uploaded the datasets in the respository under
    <li>Identify which country won the most gold, most silver and most bronze medals in each olympic games.</li>
    <li>Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.</li>
    <li>Which countries have never won gold medal but have won silver/bronze medals?</li>
-   <li>In which Sport/event, Japan has won highest medals.</li>
+   <li>In which Sport/event, Japan has won highest medals?</li>
    <li>Break down all olympic games where Japan won medal for Gymnastics and how many medals in each olympic games.</li>  
 </ol>
 
